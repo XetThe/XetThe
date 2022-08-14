@@ -3,7 +3,7 @@ just vibing along.
 
 ##To-do
 
-[X] Make a good home page
+- [ ] Make a good home page
 
 <!---
 XetThe/XetThe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
