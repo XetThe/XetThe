@@ -1,7 +1,7 @@
 # hello
 just vibing along.
 
-##To-do
+## To-do
 
 - [ ] Make a good home page
 
