@@ -29,7 +29,7 @@
 		},
 		"pfp source": "https://www.pixiv.net/en/artworks/93750103",
 		"website": "https://xet-the.com"
-		"secret": 12-09-03
+		"secret": "12-09-03"
 	}
 }
 ```
