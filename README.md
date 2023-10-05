@@ -8,7 +8,7 @@
 				"coding": [
 					"Batch",
 					"HTML",
-					"JS (Partially)"
+					"JavaScript"
 				]
 			},
 			"gaming",
